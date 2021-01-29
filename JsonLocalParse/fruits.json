@@ -1,0 +1,54 @@
+
+[
+    {
+      "id":1,
+      "pregunta":"1.¿Cómo y cuándo tengo que empezar con mi servicio social?",
+      "Respuesta":"Lo puedes iniciar una vez que cubras, al menos, el 70% de créditos se tendrá que presentar al  Área de Registro y Control de Servicio Social al interior del COESI (edificio A8, planta baja) donde se presentara el formato de alumno o el formato de egresado según sea el caso con tu historial académico."
+    },
+    {
+      "id":2,
+      "pregunta":"2.¿Cuales son las áreas en las que me puedo especializar?",
+      "Respuesta":"En Ingeniería Civil se promueven cinco ( 5 ) áreas de especialidad, donde podrás elegir al termino de tu carrera una de ellas. Las especialidades son: Estructuras, Geotecnia, Costos / Construcción, Hidráulica yAmbiental"
+    },
+    {
+        "id":3,
+      "pregunta":"3.¿Cuales son las oportunidades laborales al concluir con la carrera?",
+      "Respuesta":"Entre las actividades de mayor relevancia se encuentran las siguientes: analista, calculista, consultor, coordinador de grupos, planificador, evaluador, director de proyectos, investigador, constructor, líder de opinión y promotor. El ingeniero civil puede desempeñarse en el sector público (comunicaciones, transportes, obras hidráulicas y sanitarias, entre otras), en organismos descentralizados, en el sector privado (constructoras, consultoría e industria) y en el sector académico (docencia e investigación)."
+    },
+    {
+      "id":4,
+      "pregunta":"4.¿Dónde puedo ver los horarios y fechas de inscripción para cada semestre? ",
+      "Respuesta":"Tres (3) son los medios donde se podrá verificar los horarios para el siguiente semestre así como la inscripción al periodo próximo.Facebook ( Ingeniería CIVIL Acatlán -Oficial ) Web ( www.ingenieria.acatlan.unam.mx )Escolares ( www.escolares.acatlan.unam.mx )"
+    },
+    {
+      "id":5,
+      "pregunta":"5.¿Cuales son las opciones que tengo para titulación?",
+      "Respuesta":"Actualmente en la FES Acatlán se cuenta con 12 opciones de titulación. La información sobre mecanismos administrativos se proporcionan en las Jefaturas de cada Programa. Cualquier duda consultar la página: www.acatlan.unam.mx/licenciaturas MEDIANTE TESIS Y EXAMEN PROFESIONAL MEDIANTE TESINA Y EXAMEN PROFESIONAL    POR ACTIVIDAD DE INVESTIGACIÓN POR SEMINARIO CURRICULAR MEDIANTE EXAMEN GENERAL DE CONOCIMIENTOS POR TOTALIDAD DE CRÉDITOS Y ALTO NIVEL ACADÉMICO POR AMPLIACIÓN Y PROFUNDIZACIÓN DE CONOCIMIENTOS POR ACTIVIDAD DE APOYO A LA DOCENCIA POR TRABAJO PROFESIONAL Y EXAMEN PROFESIONAL MEDIANTE ESTUDIOS DE POSGRADO POR SERVICIO SOCIALPOR SEMINARIO-TALLER EXTRACURRICULAR"
+    },
+    {"id":6,
+      "pregunta":"6.¿Cómo son y que necesito para las Altas y Bajas especiales?",
+      "Respuesta":"Altas y Bajas Especiales son el Tercer Movimiento después de la Inscripción Inicial y seguidas de Altas y Bajas Ordinarias. En algunas materias de alto índice de reprobación, así como algunas materias de alta demanda, en algunas situaciones tendrás que hacer uso de las Altas Especiales para solicitar la materia y tu grupo de elección, para acceder a este derecho extraordinario tendrás que realizar tu Encuesta Enseñanza - Aprendizaje del semestre anterior próximo."
+    },
+    {
+        "id": 7,
+      "pregunta":"7.¿Dónde realizo los trámites correspondientes a la inscripción de materias y/o laboratorios?",
+      "Respuesta":"Para la inscripción de materias y / o laboratorios tendrás que hacerlo en las fechas indicadas en la página de Escolares y medios oficiales:Materias: ESCOLARES ( www.escolares.acatlan.unam.mx )Laboratorios: SAIL  (www.sistemas.acatlan.unam.mx/sail/Alumno/Login.aspx)"
+    },
+    {
+      "id":8,
+      "pregunta":"8.¿A dónde puedo acudir si tengo alguna queja o denuncia?",
+      "Respuesta":"Dirige tu queja de primera instancia con la Secretaria Técnica del Programa de Ingeniería Civil, en donde se levantará tu denuncia y posteriormente daremos seguimiento a ella con los medios institucionales pertinentes."
+    },
+    {
+      "id":9,
+      "pregunta":"9.¿Dónde puedo ver la seriación de las materias, así como el plan de estudios?",
+      "Respuesta":"En la página oficial de la carrera ponemos a tu disposición el mapa curricular y el plan de estudios de los planes vigentes de la carrera.Web ( www.ingenieria.acatlan.unam.mx ) Pestaña: Planes de Estudio"
+    },
+    {
+      "id":10,
+      "pregunta":"10.¿Qué es la ingeniería civil y que conocimientos base debo de tener para la carrera?",
+      "Respuesta":"El ingeniero civil es el profesionista que realiza obras de servicio colectivo en infraestructura y desarrollo urbano, participando en las etapas de planeación, diseño, construcción, operación, administración, mantenimiento, rehabilitación, desmantelamiento y remodelación,  aplicando los conocimientos científicos y tecnológicos más avanzados. El Alumno deberá tener una buena preparación en matemáticas, física y química, puesto que el estudio de la carrera requiere una sólida base en estas ciencias."
+    }
+    
+    
+]
